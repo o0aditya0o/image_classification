@@ -1,0 +1,1 @@
+Contains exercises from the following course https://developers.google.com/machine-learning/practica/image-classification
